@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">Trading Track</string>
+    <string name="title_activity_main">Trading Track</string>
+    <string name="package_name">com.tradingtrack.app</string>
+    <string name="custom_url_scheme">com.tradingtrack.app</string>
+</resources>
